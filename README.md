@@ -1,3 +1,3 @@
-# One_Shot_Learning
+# ATTENDENCE USING FACE RECOGNITION
 
-## Please refer the document attached to this repo
+## CODE LINK :- https://github.com/sovitnayak123/Face_Recognition_Based_Attendence/blob/main/main.py
